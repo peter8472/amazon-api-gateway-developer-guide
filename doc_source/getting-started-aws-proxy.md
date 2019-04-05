@@ -149,7 +149,7 @@ In this step, you specify the settings for the GET method so that it can interac
 
 1. In the API Gateway console, in the **Resources** pane for the API named `MyDemoAPI`, in **/mydemoawsproxy**, choose **GET**\.
 
-1. In the **Setup** pane, for **Integration type**, choose **Show advanced**, and then choose **AWS Service Proxy**\.
+1. In the **Setup** pane, for **Integration type**, choose **AWS Service**\.
 
 1. For **AWS Region**, choose the name of the AWS Region where you want to get the Amazon SNS topics\.
 
